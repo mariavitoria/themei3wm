@@ -1,7 +1,7 @@
 # Theme Manjaro i3wm
 Configurações de estilo do meu Manjaro i3wm
 
-#Olá :) 
+# Olá :) 
 Aqui disponibilizo meus arquivos de configuração do Manjaro i3wm.
 ![alt text](./desktop.png)
 ![alt text](./terminal.png)
